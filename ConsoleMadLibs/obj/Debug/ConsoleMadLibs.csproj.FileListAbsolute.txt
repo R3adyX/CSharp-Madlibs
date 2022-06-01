@@ -1,0 +1,8 @@
+C:\Users\sbcut\OneDrive\repo\Practice\ConsoleMadLibs\ConsoleMadLibs\obj\Debug\ConsoleMadLibs.csproj.AssemblyReference.cache
+C:\Users\sbcut\OneDrive\repo\Practice\ConsoleMadLibs\ConsoleMadLibs\obj\Debug\ConsoleMadLibs.csproj.SuggestedBindingRedirects.cache
+C:\Users\sbcut\OneDrive\repo\Practice\ConsoleMadLibs\ConsoleMadLibs\obj\Debug\ConsoleMadLibs.csproj.CoreCompileInputs.cache
+C:\Users\sbcut\OneDrive\repo\Practice\ConsoleMadLibs\ConsoleMadLibs\bin\Debug\ConsoleMadLibs.exe.config
+C:\Users\sbcut\OneDrive\repo\Practice\ConsoleMadLibs\ConsoleMadLibs\bin\Debug\ConsoleMadLibs.exe
+C:\Users\sbcut\OneDrive\repo\Practice\ConsoleMadLibs\ConsoleMadLibs\bin\Debug\ConsoleMadLibs.pdb
+C:\Users\sbcut\OneDrive\repo\Practice\ConsoleMadLibs\ConsoleMadLibs\obj\Debug\ConsoleMadLibs.exe
+C:\Users\sbcut\OneDrive\repo\Practice\ConsoleMadLibs\ConsoleMadLibs\obj\Debug\ConsoleMadLibs.pdb
